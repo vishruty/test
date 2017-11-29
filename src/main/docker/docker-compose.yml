@@ -1,0 +1,7 @@
+learningapp:
+  build: .
+  expose:
+    - 8054
+    
+  
+
